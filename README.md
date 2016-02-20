@@ -11,4 +11,6 @@ The location where the output file is stored, is controlled by the `location` va
 
 the filename is constructed using the `Datum` and `ExperimentName` variables. If the file already exists, it will be appended with new incomming data.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46358.svg)](http://dx.doi.org/10.5281/zenodo.46358)
+
 
